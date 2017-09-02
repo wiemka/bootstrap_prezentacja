@@ -5,6 +5,10 @@ h2 {
     margin: 0;
 }
 
+#kontenery {
+    margin-top: 50px;
+}
+
 #kontenery .container {
     background-color: lightgray;
     margin-bottom: 15px;
