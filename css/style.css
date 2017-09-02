@@ -48,4 +48,7 @@ h2 {
 #carousel-example-generic .carousel-inner .item img {
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
 }
