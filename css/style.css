@@ -41,3 +41,11 @@ h2 {
     height: 100px;
     background-color: yellow;
 }
+
+
+/*karuzeal rozciagnięcie obrazka*/
+
+#carousel-example-generic .carousel-inner .item img {
+    margin-left: auto;
+    margin-right: auto;
+}
